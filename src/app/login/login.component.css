@@ -1,0 +1,77 @@
+/* .log{
+    color: grey;
+    /* margin-top: 25px; */
+/* }
+.form-control{
+    margin-top: 10px
+} */
+/* .user{
+    font-size: 20px
+} */
+/* .psw{
+    color: grey;
+    margin-top: 25px;
+} */
+/* 
+.psd{
+    font-size: 20px;
+}  */
+#fm{
+    background-color: rgba(195, 204, 212, 0.986);
+    padding: 15px;
+    /* margin: 75px; */     
+    /* margin-top: 75px; */
+    margin-left: 216px;
+
+}
+
+.login{
+    width: 250px; 
+    margin-left:350px;
+
+}
+
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    border: none;
+    background: #f1f1f1;
+}
+
+input[type=text]:focus, input[type=password]:focus {
+    background-color: #ddd;
+    outline: none;
+}
+/* 
+#image{
+    height: 500px;
+    width: 1000px;
+    padding-right: 200px;
+    margin-top:26px;   
+} */
+.bg-img {
+    
+    background-image: url("../../assets/workspace.jpg");
+
+    min-height: 380px;
+
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    width: 65%;
+    height: 100%;
+    margin-top: 50px;
+    margin-left: 245px;
+}
+
+.container {
+    position: absolute;
+    right: 0;
+    margin: 20px;
+    max-width: 300px; 
+    padding: 16px;
+    background-color: white;
+}

@@ -1,0 +1,24 @@
+#search{
+    margin-left: 10px;
+    float: left;
+}
+.srch{
+    padding-right: 28px;
+}
+
+.nav-link:hover{
+    background-color: black;
+    
+  }
+  .bg-dark{
+    
+    padding: 0px;
+  }
+  .form-inline{
+    margin-left: 720px 
+  }
+  .srch{
+      margin-left: 810px;     
+  }
+
+  

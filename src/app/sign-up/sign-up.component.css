@@ -1,0 +1,389 @@
+
+#header{
+    height: auto;
+    width: 100%;
+    float: left;
+    
+}
+#header-top{
+    background-color:#999999;
+    height: auto;
+    width: 100%;
+    min-height: 40px;
+    float:left;
+    padding-left: 25px;
+    /* position: sticky;
+    top: 0; */
+}
+#fa-logo{
+    font-size: 50px;
+    color: rgba(0, 0, 0, 0.788);
+    margin-left: 1223px;
+    
+}
+#header-bottom{
+    background-color:#ac4444;
+    height :auto;
+    width: 100%;
+    max-height: 90px;
+    float:left;
+    padding-left: 400px;
+    
+}
+.header-bottom-menu{
+    height :auto;
+    float:left;
+    padding: 12px 17px;
+    font-size:22px;
+    color:rgb(32, 23, 23);
+    
+}
+.header-bottom-menu:hover {
+    background-color:#ad1919;
+    float: left;
+    
+}	
+#header-bottom-menu-login{
+    height: 60px;
+    float: left;
+    padding: 12px 17px;
+     
+    margin-left: 1230px;
+    
+}
+
+
+.Avatar{
+    vertical-align: center;
+    width: 50px;
+    height: 170px;
+    border-radius: 50%; 
+    
+    
+}
+
+#main{	
+    height: auto;
+    width: 100%;
+    min-height: 300px;
+    float: left;
+   
+}
+/* #main-left-links{
+    background-color: #DDFF00;
+    height: 100%;
+    width: 20%;
+    float: left;
+    min-height: 900px;
+} */
+/* .slidebar{
+overflow: scroll;   
+    width: 15%;
+    height: 100%; */
+    /* padding: 30px; */
+    /* font-size: 22px;
+    font-family: "Montserrat", sans-serif;
+    z-index: 3;
+    width: 250px;
+    font-weight: bold;
+    float: left;
+    min-height: 1200px;
+} */
+/* a{
+    text-decoration: none;
+    color: rgb(44, 23, 23);
+} */
+/* a:hover{
+    color: #ac4444;
+} */
+/* }
+#image-main-left-link{
+    background-image: url("../../assets/round.jpg");
+    min-height: 1000px;
+    padding: 30px;
+} */
+#main-content{
+    /* background-color: #335d2c */
+    height: 100%;
+    width: 100%;
+    float: left;
+}
+#main-content-top{
+    background-color:white;
+    height: 80%;
+    width: 100%; 
+    min-height: 800px;
+    
+}
+#main-content-bottom{
+    background-color:rgba(0, 0, 0, 0.842);
+    height: 20%;
+    width: 100%; 
+    min-height: 400px;
+    color: white;
+    margin-top: 1200px;
+}
+
+#main-content-bottom-top{
+    height: 50%;
+    float: left;
+    /* background-color: rgba(0, 0, 0, 0.842); */
+    width: 100%;
+}
+
+/* 
+#main-content-bottom-down{
+    height: 50%;
+    background-color: rgba(0, 0, 0, 0.842);
+    min-height: 300px;
+} */
+
+#footer-fa{
+    /* padding-left: 150px; */
+    padding-top: 365px;
+    text-align: center;
+    padding-bottom:50px
+}
+
+
+#about{
+    padding-left: 150px;
+    padding-top: 70px;
+    float: left;
+    
+}
+
+#support{
+    padding-left: 211px; 
+    padding-top: 70px;
+    float: left;
+}
+#legal{
+    margin-left: 150px;
+    /* padding-left: 780px; */
+    padding-top: 70px;
+    float: left;
+}
+
+#others{
+    margin-left: 250px;
+    /* padding-left: 300px; */
+    padding-top: 70px; 
+    float: left;
+}
+
+.container {
+    position: relative;
+    width: 50%;
+  }
+  
+  .image {
+    padding-top: 25px;
+    display: block;
+    width: 100%;
+    height: 400px;
+    width: 400px;
+  }
+/*   
+  .overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color:  lightblue;
+    overflow: hidden;
+    width: 100%;
+    height: 0;
+    transition: .5s ease;
+  } */
+   
+  /* .container:hover .overlay {
+    height: 100%;
+  } */
+/*   
+  .text {
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+  } */
+/* 
+  body, html{
+      height: 100%;
+      margin: 0;
+  } */
+  .main-content-top-iamge{
+      background-image: url("../../assets/ultimate-ski-and-snow-gear-patrol-full-lead-1440.jpg");
+      background-attachment: fixed;
+      height: 50%;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      min-height: 500px;
+      /* min-width: 1000px; */
+      position: relative;
+      
+  }
+
+  .main-top-content-top-iamge-text{
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+  }
+  /* .carousel-inner img {
+    width: 100%;
+    height: 100%;
+} */
+
+#main-content-top-product{
+    background-color:white;
+    width: 100%;
+}
+.card-1{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin-left: 113px;
+    text-align: center;
+    font-family: arial;
+    float: left;
+    margin-top: 60px;
+    
+}
+.price-jeans-1{
+    color: grey;
+    font-size: 22px;
+}
+.card-1 button{
+    color: white;
+    background-color: black;
+    border: none;
+    outline: 0;
+    padding: 12px;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+    margin-bottom: -20px;
+    
+    
+}
+.card-1 button:hover{
+    opacity: 0.7;
+}
+
+
+
+
+body {
+    font-family: Arial;
+    font-size: 17px;
+    /* padding: 8px; */
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+  
+  .row {
+    display: -ms-flexbox; /* IE10 */
+    display: flex;
+    -ms-flex-wrap: wrap; /* IE10 */
+    flex-wrap: wrap;
+    margin: 0 -16px;
+  }
+  
+  .col-25 {
+    -ms-flex: 25%; /* IE10 */
+    flex: 25%;
+  }
+  
+  .col-50 {
+    -ms-flex: 50%; /* IE10 */
+    flex: 50%;
+  }
+  
+  .col-75 {
+    -ms-flex: 75%; /* IE10 */
+    flex: 75%;
+  }
+  
+  .col-25,
+  .col-50,
+  .col-75 {
+    padding: 0 16px;
+  }
+  
+  .container {
+    background-color: #f2f2f2;
+    padding: 5px 20px 15px 20px;
+    border: 1px solid lightgrey;
+    border-radius: 3px;
+    width: 800px;
+  }
+  
+  input[type=text] {
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  label {
+    margin-bottom: 10px;
+    display: block;
+  }
+  
+  .icon-container {
+    margin-bottom: 20px;
+    padding: 7px 0;
+    font-size: 24px;
+  }
+  
+  .btn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px;
+    margin: 10px 0;
+    border: none;
+    width: 100%;
+    border-radius: 3px;
+    cursor: pointer;
+    font-size: 17px;
+  }
+  
+  .btn:hover {
+    background-color: #45a049;
+  }
+  
+  a {
+    color: #2196F3;
+  }
+  
+  hr {
+    border: 1px solid lightgrey;
+  }
+  
+  span.price {
+    float: right;
+    color: grey;
+  }
+  
+  /* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other (also change the direction - make the "cart" column go on top) */
+  @media (max-width: 800px) {
+    .row {
+      flex-direction: column-reverse;
+    }
+    .col-25 {
+      margin-bottom: 20px;
+    }
+  }
+  
