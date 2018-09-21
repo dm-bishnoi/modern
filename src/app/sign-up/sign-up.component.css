@@ -43,11 +43,11 @@
     float: left;
     
 }	
-#header-bottom-menu-login{
+#header-top-cart{
     height: 60px;
     float: left;
     padding: 12px 17px;
-     
+     text-align: right;
     margin-left: 1230px;
     
 }
@@ -121,7 +121,7 @@ overflow: scroll;
     width: 100%; 
     min-height: 400px;
     color: white;
-    margin-top: 1200px;
+    /* margin-top: 1200px; */
 }
 
 #main-content-bottom-top{
@@ -184,6 +184,14 @@ overflow: scroll;
     height: 400px;
     width: 400px;
   }
+  .main-content-bg{
+    background-image: url("../../assets/74808_online-buy-wholesale-light-color-backgrounds-from-china-light_696x691_h.jpg");
+    height: 1350px;
+    /* width: 1400px; */
+    /* margin-left: 26px; 
+    margin-right: 26px; */
+    
+}
 /*   
   .overlay {
     position: absolute;
@@ -229,6 +237,7 @@ overflow: scroll;
       position: relative;
       
   }
+
 
   .main-top-content-top-iamge-text{
     text-align: center;

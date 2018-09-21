@@ -48,14 +48,18 @@
     <div>
     <div class="container" id="fm">
       
-        <span  class="user">UserName</span><br>
+        <span  class="user">UserName</span>
+        <div class="srch">
+        <span class="fa fa-user"></span>
         <input type="text" name="username" class="form-control" placeholder="Enter Username" required [(ngModel)]="username">
-      
+      </div>
 
       
         <span class="psd">Password</span><br>
-        <input type="password" name="password" id="password" class="form-control" placeholder="Password" required>
-
+          <div class="srch">
+            <span class="fa fa-lock"></span>
+              <input type="password" name="password" id="password" class="form-control" placeholder="Password" required>
+          </div>
       <label>
         <input type="checkbox" name="remeber" id="check" checked="checked" >Remeber me
       </label>
